@@ -1,0 +1,13 @@
+//
+// Created by Laura on 29/08/2025.
+//
+
+#ifndef TALLERCLASE_SOFBEO_CALIFICACIONES_UTILS_H
+#define TALLERCLASE_SOFBEO_CALIFICACIONES_UTILS_H
+
+
+class calificaciones_utils {
+};
+
+
+#endif //TALLERCLASE_SOFBEO_CALIFICACIONES_UTILS_H
